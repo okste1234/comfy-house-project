@@ -259,3 +259,18 @@ body {
 }
 
 /* --------------- End of Cart ---------------- */
+
+/* -----------Footer----------- */
+footer {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background: rgb(231, 226, 221);
+  z-index: 1;
+  margin-top: 3rem;
+}
+footer .footsy{
+  padding-top: 20px;
+  font-size: 20px;
+}
